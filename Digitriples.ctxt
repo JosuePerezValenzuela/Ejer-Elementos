@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Digitriples
+comment1.params=n
+comment1.target=int\ digitriples(int)
+comment2.params=numero\ multiplos3\ Nmultiplos3
+comment2.target=int\ digitriples(int,\ java.util.ArrayList,\ java.util.ArrayList)
+comment3.params=numero\ multiplos3\ Nmultiplos3
+comment3.target=void\ llenarListas(int,\ java.util.ArrayList,\ java.util.ArrayList)
+comment4.params=numeros
+comment4.target=int\ sumarDigitosLista(java.util.ArrayList)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
